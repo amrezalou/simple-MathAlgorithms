@@ -6,12 +6,12 @@ a simple python file that contains a few math simple algorithms for practice as 
    ``` git clone https://github.com/amrezalou/simple-MathAlgorithms ```
 
 2. change the current directory
-   ``` cd simple-MathAlgorithms
+   ``` cd simple-MathAlgorithms ```
    
 3. now it's time to run it on terminal
    ``` python3 MathAlgorithms.py ```
    or
-   ``` g++ MathAlgorithms.cpp -o MathAlgorithms && ./MathAlgorithms
+   ``` g++ MathAlgorithms.cpp -o MathAlgorithms && ./MathAlgorithms ```
    
 5. it's ready, use the code and change it as what you want.
 
